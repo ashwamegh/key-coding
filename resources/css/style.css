@@ -55,19 +55,22 @@ a.portfolio-link:visited{
     vertical-align: middle;
 }
 #key_codes{
+	color: #f5f5f5;
 	font-size: 30vmin;
 	margin: 0px;
 	margin-top: 10px;
 }
 #key_info{
-	background: #d6cdcd;
+	background: #c7c0c0;
+	color: #fff;
 	padding: 1em 1.3em;
 	font-size: 1.6em;
 	font-weight: 700;
 	margin-top: 90px;
-	box-shadow: 2px 4px 4px #acacac;
+	box-shadow: 2px 4px 4px #646161;
 	border-radius: 10px;
 	display: inline-block;
+	text-transform: capitalize;
 }
 #welcome_info{
 	background: #d6cdcd;
